@@ -1,2 +1,2 @@
-var name='Mhmd Rizk';
-alert(name);
+var fname;
+alert(fname);
